@@ -21,3 +21,5 @@
 5. selesai
 ## **FLOWCHART**
 ![Gambar 1](image/flowchart.png)
+## **DIAGRAM**
+![Gambar 1](image/diagram.jpeg)
